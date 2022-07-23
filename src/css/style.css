@@ -43,9 +43,9 @@ main{
 
 .container .info .product-name{
     font-family: 'Fraunces', serif;
-    font-size: 3.2rem;
+    font-size: 3.8rem;
     line-height: 3.2rem;
-    margin-top: 2.2rem;
+    margin-top: 2.1rem;
 }
 
 .container .info .product-info{
@@ -57,14 +57,14 @@ main{
 .container .info .value{
     display: flex;
     align-items: center;
-    margin-top: 2.4rem;
+    margin-top: 2.3rem;
 }
 
 .container .info .value .price{
     font-family: 'Fraunces', serif;
     font-weight: 700;
-    font-size: 3.3rem;
-    margin-right: 1.7rem;
+    font-size: 3.6rem;
+    margin-right: 1.8rem;
     color: var(--primary-soft-color);
 }
 
@@ -76,7 +76,7 @@ main{
 
 .container .info .btn p{
     background-color: var(--primary-soft-color);
-    margin-top: 2.7rem;
+    margin-top: 2.5rem;
     font-size: 1.4rem;
     padding: 1.4rem 2rem;
     border-radius: 1rem;
