@@ -1,38 +1,37 @@
 @media(max-width:670px){
-    .container{
+    .card{
         flex-direction: column;
         max-width: 34rem
     }
 
-    .container .image {
+    .card .image {
         max-width: 100%;
         max-height: 240px;
     }
 
-    .container .image .image-product{
+    .card .image .image-product{
         height: 240px;
         border-radius: 1rem 1rem 0 0;
     }
 
-    .container .info{
+    .card .info{
         padding: 1.7rem 2.2rem;
         border-radius: 0 0 1rem 1rem;
     }
 
-    .container .info .product-name{
+    .card .info .product-name{
         margin-top: 1.4rem;
     }
 
-    .container .info .product-info{
+    .card .info .product-info{
         margin-top: 1.7rem;
     }
 
-    .container .info .value{
+    .card .info .prices{
         margin-top: 1.7rem;
     }
 
-    .container .info .btn p{
+    .card .info .btn{
         margin: 1.3rem 0 0.9rem;
     }
-
 }
