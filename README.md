@@ -33,8 +33,9 @@ Os usuários devem ser capazes de:
 ![produto](src/design/screenshot-mobile.png)
 ### Links
 
-- Solução do desafio: [Product preview card component - Frontend mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub/product-preview-card-component-Lfx8q63Ux0)
+- Solução do desafio no frontend mentor: [Product preview card component - Frontend mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub/product-preview-card-component-Lfx8q63Ux0)
 - URL da página: [Preview card component](https://alexjr53.github.io/Product-preview-card-component/) 
+- Repositório do projeto no GitHUb: [Preview card component](https://github.com/Alexjr53/Product-preview-card-component)
 
 ## Meu processo
 
