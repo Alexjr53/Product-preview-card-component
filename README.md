@@ -16,7 +16,7 @@ Esta é uma solução para o [Desafio Product preview card component no Frontend
 - [Autor](#autor)
 - [Agradecimentos](#agradecimentos)
 
-  ## Visão geral
+## Visão geral
 
 ### Desafio
 
